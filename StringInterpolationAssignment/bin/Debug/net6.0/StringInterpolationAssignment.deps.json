@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StringInterpolationAssignment/1.0.0": {
+        "runtime": {
+          "StringInterpolationAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringInterpolationAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
